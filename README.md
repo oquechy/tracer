@@ -1,15 +1,3 @@
 # tracer
-Wrapper for signal transmission to child processes
-
-Usage:
-`./tracer <command> <options>`
-
-Output example:
-
-`process started [pid: 6491]`
-
-`process stopped // with all subprocesses`
-
-`process resumed // with all subprocesses`
-
-`process finished [pid: 6491]`
+Wrapper for signal transmission to child processes. 
+See [wiki page](https://github.com/oquechy/tracer/wiki/All-about-tracer) for usage example.
